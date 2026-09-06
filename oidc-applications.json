@@ -1319,6 +1319,16 @@
       "license": "AGPL-3.0",
       "description": "An AI-powered, privacy-first app for browsing, organizing, and sharing photos and videos.",
       "documentation_url": "https://docs.photoprism.app/developer-guide/api/oidc/"
+    },
+    {
+      "name": "Poznote",
+      "category": "Notes & knowledge management",
+      "project_url": "https://poznote.com/",
+      "github_url": "https://github.com/timothepoznanski/poznote",
+      "logo_url": "https://raw.githubusercontent.com/timothepoznanski/poznote/main/images/poznote.svg",
+      "license": "MIT",
+      "description": "A self-hosted, open-source note-taking app (alternative to Notion, Obsidian, or Evernote) with built-in OpenID Connect login (authorization code + PKCE), auto-provisioning, group-based access control, and an optional SSO-only mode.",
+      "documentation_url": "https://github.com/timothepoznanski/poznote#oidc"
     }
   ]
 }
